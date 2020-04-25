@@ -46,7 +46,7 @@
 				<?php 
 				/**
 				* vender_header_nav hook
-				*
+				
 				* @hooked storefront_header_cart - 60
 				*/	
 				do_action( 'vender_header_nav' ); ?>
